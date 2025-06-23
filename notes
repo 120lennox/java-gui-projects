@@ -1,0 +1,13 @@
+if (condition){
+    // code to execute if condition is true
+}
+
+start read temperature
+
+if (temperature >= number){
+    make some decision = its warm put on shorts
+}
+
+if (temperature <= number){
+    make some decision = its cold put on jacket
+}
